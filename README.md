@@ -6,4 +6,5 @@ Welcome
 
 > Demo
 
-<p>  To commit pulling </p>
+<p> To commit pull </p>
+
